@@ -1,0 +1,2 @@
+design evaluation
+large system divided into small components .it has its own name and behaviour
